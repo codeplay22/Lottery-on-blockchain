@@ -21,6 +21,14 @@ https://book.getfoundry.sh/
 $ forge build
 ```
 
+## Quickstart
+
+```
+git clone https://github.com/codeplay22/Lottery-on-blockchain
+cd Lottery-on-blockchain
+forge build
+```
+
 ### Test
 
 ```shell
